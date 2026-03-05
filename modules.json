@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn13_1",
+    "module_label": "XFN.13.1 - Channel Data Capture",
+    "module_title": "Channel Data Capture",
+    "module_slug": "channel_data_capture",
+    "app_code": "xfn13",
+    "app_label": "XFN 13 - Omni-Channel Coordination Layer",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn13_2",
+    "module_label": "XFN.13.2 - Cross-Channel Workflow Logging",
+    "module_title": "Cross-Channel Workflow Logging",
+    "module_slug": "cross_channel_workflow_logging",
+    "app_code": "xfn13",
+    "app_label": "XFN 13 - Omni-Channel Coordination Layer",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn13_3",
+    "module_label": "XFN.13.3 - Performance & Issue Reporting",
+    "module_title": "Performance & Issue Reporting",
+    "module_slug": "performance_and_issue_reporting",
+    "app_code": "xfn13",
+    "app_label": "XFN 13 - Omni-Channel Coordination Layer",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
